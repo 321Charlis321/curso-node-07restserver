@@ -1,0 +1,4 @@
+1 : express 
+2 : dotenv : para configurar variables de entorno  : 
+1: Cors : para que cierta pagianas sean accesible para la pagian, protege el servisor de una manera superficial
+ https://www.npmjs.com/package/cors
