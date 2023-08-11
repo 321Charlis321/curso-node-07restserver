@@ -4,4 +4,7 @@
  https://www.npmjs.com/package/cors
 
 
- en el git : git checkout--. para recuperar archivos borrados 
+ a) en el git : git checkout --. para recuperar archivos borrados 
+
+ b) git tag -a v1.0.0 -m : "fin Seccion 8"  para subird un tag 
+ c) git push --tags :subir al rervidor el tag
